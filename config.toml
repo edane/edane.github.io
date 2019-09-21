@@ -1,0 +1,20 @@
+baseURL = "https://edane.github.io/"
+languageCode = "en-us"
+title = "Caroline Hirwing"
+theme = "hello-friend"
+dateFormatSingle = "2006-01-02"
+dateFormatList = "2006-01-02"
+
+[params]
+  #dirname of content(content/posts)
+  contentTypeName = "posts"
+  defaultTheme = "dark"
+  showMenuOptins = 2
+  showReadingTimes = false 
+
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
