@@ -10,8 +10,9 @@ dateFormatList = "2006-01-02"
   contentTypeName = "posts"
   defaultTheme = "dark"
   showMenuOptins = 2
-  showReadingTimes = false 
-
+  showReadingTimes = false
+  [params.logo]
+    logoText = "Caroline Hirwing"
 
 [menu]
   [[menu.main]]
